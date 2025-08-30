@@ -45,6 +45,6 @@ Gostaria de agradecer à [Alura](https://www.alura.com.br) e aos instrutores pel
 **Beatriz Martins**
 
 * GitHub: [@Biamart07](https://github.com/Biamart07)
-* LinkedIn: [Seu LinkedIn aqui (opcional)](https://www.linkedin.com/in/beatriz-martins-5b3886378/)
+* LinkedIn:(https://www.linkedin.com/in/beatriz-martins-5b3886378/)
 
 ---
